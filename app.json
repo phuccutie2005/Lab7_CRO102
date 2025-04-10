@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Lab7",
+    "slug": "Lab7",
+    "owner": "phuckaido2k5",
+    "scheme": "lab7",
+    "android": {
+      "package": "com.phuckaido2k5.Lab7"
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.phuckaido2k5.Lab7"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1bd2cf98-ed0f-4b25-9dfd-7314f399460f"
+      }
+    }
+  }
+}
